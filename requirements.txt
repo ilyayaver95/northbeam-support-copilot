@@ -1,0 +1,15 @@
+# core
+litellm>=1.40.0             # provider-agnostic model calls
+instructor>=1.3.0           # structured output with validation and retries
+pydantic>=2.0
+python-dotenv
+
+# retrieval
+sentence-transformers>=2.7.0   # all-MiniLM-L6-v2, downloaded on first run (~90MB)
+numpy
+
+# tests
+pytest>=8.0
+
+# local web UI (app.py only — the copilot and evals do not need it)
+flask>=3.0

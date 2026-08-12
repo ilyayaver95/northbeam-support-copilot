@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.pytest_cache/
+
+# runtime artifacts
+.answer_cache.json
+traces/
+*.run.json
