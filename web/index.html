@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Northbeam Support Copilot</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='88'>◉</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <div class="mark" aria-hidden="true">
+      <span class="sweep"></span>
+      <span class="pip"></span>
+    </div>
+    <div class="brand-text">
+      <h1>Northbeam Support Copilot</h1>
+      <p class="sub" id="configLine">radar service desk · loading…</p>
+    </div>
+  </div>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab is-active" data-view="ask" role="tab">Ask</button>
+    <button class="tab" data-view="dashboard" role="tab">Dashboard</button>
+  </nav>
+
+  <button class="icon-btn" id="themeToggle" title="Toggle theme" aria-label="Toggle theme">
+    <span class="theme-icon"></span>
+  </button>
+</header>
+
+<!-- ============================ ASK ============================ -->
+<main class="view is-active" id="view-ask">
+
+  <section class="composer">
+    <div class="composer-box">
+      <textarea id="question" rows="2" autofocus
+        placeholder="Ask about an operator, a unit, a case, a policy — or something the copilot should decline…"></textarea>
+      <div class="composer-foot">
+        <span class="hint"><kbd>⌘</kbd><kbd>↵</kbd> to send</span>
+        <button class="btn-primary" id="askBtn">
+          <span class="btn-label">Ask</span>
+          <span class="spinner" aria-hidden="true"></span>
+        </button>
+      </div>
+    </div>
+    <div id="examples" class="examples"></div>
+  </section>
+
+  <section id="stage" class="stage">
+    <div class="empty" id="emptyState">
+      <div class="empty-mark">◉</div>
+      <p>Pick an example above, or ask your own.</p>
+      <p class="empty-sub">Every answer shows the tools it ran and where its numbers came from.</p>
+    </div>
+
+    <div class="loading" id="loadingState" hidden>
+      <div class="pulse-rows"><span></span><span></span><span></span></div>
+      <p id="loadingText">Choosing tools…</p>
+    </div>
+
+    <div class="error-card" id="errorState" hidden>
+      <h3>Something went wrong</h3>
+      <pre id="errorText"></pre>
+    </div>
+
+    <article class="result" id="result" hidden>
+      <div class="verdict">
+        <span class="verdict-dot"></span>
+        <span class="verdict-label" id="verdictLabel"></span>
+        <span class="decider" id="decider"></span>
+        <div class="spacer"></div>
+        <div class="metrics" id="metrics"></div>
+      </div>
+
+      <div class="answer" id="answer"></div>
+
+      <div class="decline-note" id="declineNote" hidden>
+        <span class="decline-icon">⊘</span>
+        <div>
+          <strong>Why this was declined</strong>
+          <p id="declineReason"></p>
+        </div>
+      </div>
+
+      <div class="panels">
+        <section class="panel" id="sourcesPanel">
+          <h3>Sources</h3>
+          <div class="chips" id="sources"></div>
+          <p class="panel-note" id="badSources" hidden></p>
+        </section>
+
+        <section class="panel">
+          <h3>Tool calls <span class="count" id="toolCount"></span></h3>
+          <ol class="timeline" id="timeline"></ol>
+          <p class="panel-note" id="noTools" hidden>
+            No tools ran — this answer isn't grounded in a record.
+          </p>
+        </section>
+      </div>
+    </article>
+  </section>
+</main>
+
+<!-- ========================== DASHBOARD ========================== -->
+<main class="view" id="view-dashboard">
+  <section class="dash-head">
+    <div>
+      <h2>Operational KPIs</h2>
+      <p class="sub">From <code>traces/traces.jsonl</code> — one line per <code>ask()</code>.
+        Same numbers as <code>python monitoring.py ops</code>.</p>
+    </div>
+    <button class="btn-ghost" id="refreshKpis">Refresh</button>
+  </section>
+
+  <div class="dash-empty" id="dashEmpty" hidden>
+    <p>No traces yet — ask a question first.</p>
+  </div>
+
+  <div id="dashBody" hidden>
+    <div class="kpi-grid" id="kpiGrid"></div>
+
+    <div class="dash-cols">
+      <section class="panel card">
+        <h3>Tool usage</h3>
+        <div class="bars" id="toolBars"></div>
+      </section>
+      <section class="panel card">
+        <h3>Outcome decided by</h3>
+        <div class="bars" id="ruleBars"></div>
+        <p class="panel-note">
+          <code>model_judgment</code> was left to the model. Everything else was
+          decided in code by <code>refusal.py</code>.
+        </p>
+      </section>
+    </div>
+
+    <section class="panel card">
+      <h3>Recent calls</h3>
+      <div class="table-scroll">
+        <table class="trace-table">
+          <thead>
+            <tr><th>Question</th><th>Latency</th><th>Steps</th><th>Tools</th><th>Outcome</th></tr>
+          </thead>
+          <tbody id="traceRows"></tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
