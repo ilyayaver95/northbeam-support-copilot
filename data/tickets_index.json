@@ -1,0 +1,442 @@
+{
+  "TKT-3108": {
+    "file": "TKT-3108_critical-fault-on-the-main-mast-array-cs-8312.md",
+    "operator_id": "OP-2742",
+    "subject": "Critical fault on the main mast array (CS-8312)",
+    "status": "closed",
+    "opened_on": "2026-09-04",
+    "closed_on": "2026-09-07"
+  },
+  "TKT-3103": {
+    "file": "TKT-3103_verdemar-offshore-systems--site-survey-outcome.md",
+    "operator_id": "OP-2745",
+    "subject": "Verdemar Offshore Systems \u2014 site survey outcome",
+    "status": "closed",
+    "opened_on": "2026-09-01",
+    "closed_on": "2026-09-07"
+  },
+  "TKT-3121": {
+    "file": "TKT-3121_why-is-our-response-time-different-from-the-contract.md",
+    "operator_id": "OP-2743",
+    "subject": "Why is our response time different from the contract?",
+    "status": "closed",
+    "opened_on": "2026-07-23",
+    "closed_on": "2026-07-23"
+  },
+  "TKT-3131": {
+    "file": "TKT-3131_harborlight-marine-services--calibration-window-request.md",
+    "operator_id": "OP-2740",
+    "subject": "Harborlight Marine Services \u2014 calibration window request",
+    "status": "closed",
+    "opened_on": "2026-02-19",
+    "closed_on": "2026-02-21"
+  },
+  "TKT-3132": {
+    "file": "TKT-3132_stralsund-meteorological-institute--spare-part-lead-time.md",
+    "operator_id": "OP-2741",
+    "subject": "Stralsund Meteorological Institute \u2014 spare part lead time",
+    "status": "closed",
+    "opened_on": "2025-12-14",
+    "closed_on": "2025-12-15"
+  },
+  "TKT-3133": {
+    "file": "TKT-3133_kettleworth-regional-airport--firmware-upgrade-question.md",
+    "operator_id": "OP-2743",
+    "subject": "Kettleworth Regional Airport \u2014 firmware upgrade question",
+    "status": "closed",
+    "opened_on": "2026-03-31",
+    "closed_on": "2026-04-01"
+  },
+  "TKT-3134": {
+    "file": "TKT-3134_tallgrass-weather-network--portal-access.md",
+    "operator_id": "OP-2744",
+    "subject": "Tallgrass Weather Network \u2014 portal access",
+    "status": "closed",
+    "opened_on": "2026-02-05",
+    "closed_on": "2026-02-06"
+  },
+  "TKT-3135": {
+    "file": "TKT-3135_fjordline-vessel-traffic--availability-report-query.md",
+    "operator_id": "OP-2746",
+    "subject": "Fjordline Vessel Traffic \u2014 availability report query",
+    "status": "closed",
+    "opened_on": "2026-01-04",
+    "closed_on": "2026-01-07"
+  },
+  "TKT-3136": {
+    "file": "TKT-3136_aldergrove-approach-control--clutter-complaint.md",
+    "operator_id": "OP-2747",
+    "subject": "Aldergrove Approach Control \u2014 clutter complaint",
+    "status": "closed",
+    "opened_on": "2026-08-19",
+    "closed_on": "2026-08-22"
+  },
+  "TKT-3137": {
+    "file": "TKT-3137_sablefish-bay-harbour-trust--invoice-question.md",
+    "operator_id": "OP-2748",
+    "subject": "Sablefish Bay Harbour Trust \u2014 invoice question",
+    "status": "closed",
+    "opened_on": "2026-06-29",
+    "closed_on": "2026-06-30"
+  },
+  "TKT-3138": {
+    "file": "TKT-3138_monsoon-watch-authority--training-request.md",
+    "operator_id": "OP-2749",
+    "subject": "Monsoon Watch Authority \u2014 training request",
+    "status": "closed",
+    "opened_on": "2026-03-08",
+    "closed_on": "2026-03-10"
+  },
+  "TKT-3139": {
+    "file": "TKT-3139_grantwood-municipal-airfield--calibration-window-request.md",
+    "operator_id": "OP-2750",
+    "subject": "Grantwood Municipal Airfield \u2014 calibration window request",
+    "status": "closed",
+    "opened_on": "2026-02-27",
+    "closed_on": "2026-03-01"
+  },
+  "TKT-3140": {
+    "file": "TKT-3140_ridgeway--holt-port-logistics--spare-part-lead-time.md",
+    "operator_id": "OP-2751",
+    "subject": "Ridgeway & Holt Port Logistics \u2014 spare part lead time",
+    "status": "closed",
+    "opened_on": "2026-04-08",
+    "closed_on": "2026-04-09"
+  },
+  "TKT-3141": {
+    "file": "TKT-3141_highfell-upland-observatory--firmware-upgrade-question.md",
+    "operator_id": "OP-2752",
+    "subject": "Highfell Upland Observatory \u2014 firmware upgrade question",
+    "status": "closed",
+    "opened_on": "2026-07-19",
+    "closed_on": "2026-07-21"
+  },
+  "TKT-3142": {
+    "file": "TKT-3142_saltmarsh-estuary-control--portal-access.md",
+    "operator_id": "OP-2753",
+    "subject": "Saltmarsh Estuary Control \u2014 portal access",
+    "status": "closed",
+    "opened_on": "2026-05-14",
+    "closed_on": "2026-05-15"
+  },
+  "TKT-3143": {
+    "file": "TKT-3143_pinehurst-field-operations--availability-report-query.md",
+    "operator_id": "OP-2754",
+    "subject": "Pinehurst Field Operations \u2014 availability report query",
+    "status": "closed",
+    "opened_on": "2025-09-08",
+    "closed_on": "2025-09-12"
+  },
+  "TKT-3144": {
+    "file": "TKT-3144_kestrel-ridge-met-station--clutter-complaint.md",
+    "operator_id": "OP-2755",
+    "subject": "Kestrel Ridge Met Station \u2014 clutter complaint",
+    "status": "closed",
+    "opened_on": "2026-01-26",
+    "closed_on": "2026-01-30"
+  },
+  "TKT-3145": {
+    "file": "TKT-3145_drakensberg-air-navigation--invoice-question.md",
+    "operator_id": "OP-2756",
+    "subject": "Drakensberg Air Navigation \u2014 invoice question",
+    "status": "closed",
+    "opened_on": "2025-10-14",
+    "closed_on": "2025-10-17"
+  },
+  "TKT-3146": {
+    "file": "TKT-3146_lantern-rock-pilotage--training-request.md",
+    "operator_id": "OP-2757",
+    "subject": "Lantern Rock Pilotage \u2014 training request",
+    "status": "closed",
+    "opened_on": "2026-07-09",
+    "closed_on": "2026-07-12"
+  },
+  "TKT-3147": {
+    "file": "TKT-3147_verano-coastal-institute--calibration-window-request.md",
+    "operator_id": "OP-2758",
+    "subject": "Verano Coastal Institute \u2014 calibration window request",
+    "status": "closed",
+    "opened_on": "2025-12-10",
+    "closed_on": "2025-12-14"
+  },
+  "TKT-3148": {
+    "file": "TKT-3148_thornbury-regional-tower--spare-part-lead-time.md",
+    "operator_id": "OP-2759",
+    "subject": "Thornbury Regional Tower \u2014 spare part lead time",
+    "status": "closed",
+    "opened_on": "2025-09-30",
+    "closed_on": "2025-10-01"
+  },
+  "TKT-3149": {
+    "file": "TKT-3149_marisol-deepwater-terminal--firmware-upgrade-question.md",
+    "operator_id": "OP-2760",
+    "subject": "Marisol Deepwater Terminal \u2014 firmware upgrade question",
+    "status": "closed",
+    "opened_on": "2025-11-24",
+    "closed_on": "2025-11-24"
+  },
+  "TKT-3150": {
+    "file": "TKT-3150_brackenmoor-storm-centre--portal-access.md",
+    "operator_id": "OP-2761",
+    "subject": "Brackenmoor Storm Centre \u2014 portal access",
+    "status": "closed",
+    "opened_on": "2026-06-07",
+    "closed_on": "2026-06-11"
+  },
+  "TKT-3151": {
+    "file": "TKT-3151_silverkeel-shipping-lanes--availability-report-query.md",
+    "operator_id": "OP-2762",
+    "subject": "Silverkeel Shipping Lanes \u2014 availability report query",
+    "status": "closed",
+    "opened_on": "2026-01-08",
+    "closed_on": "2026-01-08"
+  },
+  "TKT-3152": {
+    "file": "TKT-3152_ashgrove-flight-information--clutter-complaint.md",
+    "operator_id": "OP-2763",
+    "subject": "Ashgrove Flight Information \u2014 clutter complaint",
+    "status": "closed",
+    "opened_on": "2025-08-15",
+    "closed_on": "2025-08-18"
+  },
+  "TKT-3153": {
+    "file": "TKT-3153_northreach-ice-survey--invoice-question.md",
+    "operator_id": "OP-2764",
+    "subject": "Northreach Ice Survey \u2014 invoice question",
+    "status": "closed",
+    "opened_on": "2026-01-18",
+    "closed_on": "2026-01-19"
+  },
+  "TKT-3154": {
+    "file": "TKT-3154_pelham-point-harbour--training-request.md",
+    "operator_id": "OP-2765",
+    "subject": "Pelham Point Harbour \u2014 training request",
+    "status": "closed",
+    "opened_on": "2025-08-23",
+    "closed_on": "2025-08-23"
+  },
+  "TKT-3155": {
+    "file": "TKT-3155_duneford-coastal-watch--calibration-window-request.md",
+    "operator_id": "OP-2766",
+    "subject": "Duneford Coastal Watch \u2014 calibration window request",
+    "status": "closed",
+    "opened_on": "2025-12-07",
+    "closed_on": "2025-12-07"
+  },
+  "TKT-3156": {
+    "file": "TKT-3156_ironvale-aviation-services--spare-part-lead-time.md",
+    "operator_id": "OP-2767",
+    "subject": "Ironvale Aviation Services \u2014 spare part lead time",
+    "status": "closed",
+    "opened_on": "2025-10-16",
+    "closed_on": "2025-10-18"
+  },
+  "TKT-3157": {
+    "file": "TKT-3157_windlass-bay-authority--firmware-upgrade-question.md",
+    "operator_id": "OP-2768",
+    "subject": "Windlass Bay Authority \u2014 firmware upgrade question",
+    "status": "closed",
+    "opened_on": "2026-03-01",
+    "closed_on": "2026-03-03"
+  },
+  "TKT-3158": {
+    "file": "TKT-3158_aiguille-mountain-met--portal-access.md",
+    "operator_id": "OP-2769",
+    "subject": "Aiguille Mountain Met \u2014 portal access",
+    "status": "closed",
+    "opened_on": "2025-08-15",
+    "closed_on": "2025-08-19"
+  },
+  "TKT-3159": {
+    "file": "TKT-3159_emberton-airfield-group--availability-report-query.md",
+    "operator_id": "OP-2770",
+    "subject": "Emberton Airfield Group \u2014 availability report query",
+    "status": "closed",
+    "opened_on": "2025-10-14",
+    "closed_on": "2025-10-17"
+  },
+  "TKT-3160": {
+    "file": "TKT-3160_quarrystone-docks--clutter-complaint.md",
+    "operator_id": "OP-2771",
+    "subject": "Quarrystone Docks \u2014 clutter complaint",
+    "status": "closed",
+    "opened_on": "2026-07-17",
+    "closed_on": "2026-07-20"
+  },
+  "TKT-3161": {
+    "file": "TKT-3161_windrose-weather-bureau--invoice-question.md",
+    "operator_id": "OP-2772",
+    "subject": "Windrose Weather Bureau \u2014 invoice question",
+    "status": "closed",
+    "opened_on": "2026-04-17",
+    "closed_on": "2026-04-19"
+  },
+  "TKT-3162": {
+    "file": "TKT-3162_calloway-straits-control--training-request.md",
+    "operator_id": "OP-2773",
+    "subject": "Calloway Straits Control \u2014 training request",
+    "status": "closed",
+    "opened_on": "2025-10-19",
+    "closed_on": "2025-10-20"
+  },
+  "TKT-3163": {
+    "file": "TKT-3163_harborlight-marine-services--calibration-window-request.md",
+    "operator_id": "OP-2740",
+    "subject": "Harborlight Marine Services \u2014 calibration window request",
+    "status": "closed",
+    "opened_on": "2025-09-05",
+    "closed_on": "2025-09-05"
+  },
+  "TKT-3164": {
+    "file": "TKT-3164_stralsund-meteorological-institute--spare-part-lead-time.md",
+    "operator_id": "OP-2741",
+    "subject": "Stralsund Meteorological Institute \u2014 spare part lead time",
+    "status": "closed",
+    "opened_on": "2026-08-22",
+    "closed_on": "2026-08-22"
+  },
+  "TKT-3165": {
+    "file": "TKT-3165_kettleworth-regional-airport--firmware-upgrade-question.md",
+    "operator_id": "OP-2743",
+    "subject": "Kettleworth Regional Airport \u2014 firmware upgrade question",
+    "status": "closed",
+    "opened_on": "2026-01-19",
+    "closed_on": "2026-01-19"
+  },
+  "TKT-3166": {
+    "file": "TKT-3166_tallgrass-weather-network--portal-access.md",
+    "operator_id": "OP-2744",
+    "subject": "Tallgrass Weather Network \u2014 portal access",
+    "status": "closed",
+    "opened_on": "2025-10-18",
+    "closed_on": "2025-10-19"
+  },
+  "TKT-3167": {
+    "file": "TKT-3167_fjordline-vessel-traffic--availability-report-query.md",
+    "operator_id": "OP-2746",
+    "subject": "Fjordline Vessel Traffic \u2014 availability report query",
+    "status": "closed",
+    "opened_on": "2026-06-02",
+    "closed_on": "2026-06-03"
+  },
+  "TKT-3168": {
+    "file": "TKT-3168_aldergrove-approach-control--clutter-complaint.md",
+    "operator_id": "OP-2747",
+    "subject": "Aldergrove Approach Control \u2014 clutter complaint",
+    "status": "closed",
+    "opened_on": "2025-09-10",
+    "closed_on": "2025-09-10"
+  },
+  "TKT-3169": {
+    "file": "TKT-3169_sablefish-bay-harbour-trust--invoice-question.md",
+    "operator_id": "OP-2748",
+    "subject": "Sablefish Bay Harbour Trust \u2014 invoice question",
+    "status": "closed",
+    "opened_on": "2026-08-08",
+    "closed_on": "2026-08-10"
+  },
+  "TKT-3170": {
+    "file": "TKT-3170_monsoon-watch-authority--training-request.md",
+    "operator_id": "OP-2749",
+    "subject": "Monsoon Watch Authority \u2014 training request",
+    "status": "closed",
+    "opened_on": "2026-08-17",
+    "closed_on": "2026-08-17"
+  },
+  "TKT-3171": {
+    "file": "TKT-3171_grantwood-municipal-airfield--calibration-window-request.md",
+    "operator_id": "OP-2750",
+    "subject": "Grantwood Municipal Airfield \u2014 calibration window request",
+    "status": "closed",
+    "opened_on": "2026-06-17",
+    "closed_on": "2026-06-21"
+  },
+  "TKT-3172": {
+    "file": "TKT-3172_ridgeway--holt-port-logistics--spare-part-lead-time.md",
+    "operator_id": "OP-2751",
+    "subject": "Ridgeway & Holt Port Logistics \u2014 spare part lead time",
+    "status": "closed",
+    "opened_on": "2026-03-04",
+    "closed_on": "2026-03-07"
+  },
+  "TKT-3173": {
+    "file": "TKT-3173_highfell-upland-observatory--firmware-upgrade-question.md",
+    "operator_id": "OP-2752",
+    "subject": "Highfell Upland Observatory \u2014 firmware upgrade question",
+    "status": "closed",
+    "opened_on": "2026-03-18",
+    "closed_on": "2026-03-22"
+  },
+  "TKT-3174": {
+    "file": "TKT-3174_saltmarsh-estuary-control--portal-access.md",
+    "operator_id": "OP-2753",
+    "subject": "Saltmarsh Estuary Control \u2014 portal access",
+    "status": "closed",
+    "opened_on": "2025-12-07",
+    "closed_on": "2025-12-10"
+  },
+  "TKT-3175": {
+    "file": "TKT-3175_pinehurst-field-operations--availability-report-query.md",
+    "operator_id": "OP-2754",
+    "subject": "Pinehurst Field Operations \u2014 availability report query",
+    "status": "closed",
+    "opened_on": "2026-07-09",
+    "closed_on": "2026-07-12"
+  },
+  "TKT-3176": {
+    "file": "TKT-3176_kestrel-ridge-met-station--clutter-complaint.md",
+    "operator_id": "OP-2755",
+    "subject": "Kestrel Ridge Met Station \u2014 clutter complaint",
+    "status": "closed",
+    "opened_on": "2025-09-03",
+    "closed_on": "2025-09-07"
+  },
+  "TKT-3177": {
+    "file": "TKT-3177_drakensberg-air-navigation--invoice-question.md",
+    "operator_id": "OP-2756",
+    "subject": "Drakensberg Air Navigation \u2014 invoice question",
+    "status": "closed",
+    "opened_on": "2026-06-05",
+    "closed_on": "2026-06-09"
+  },
+  "TKT-3178": {
+    "file": "TKT-3178_lantern-rock-pilotage--training-request.md",
+    "operator_id": "OP-2757",
+    "subject": "Lantern Rock Pilotage \u2014 training request",
+    "status": "closed",
+    "opened_on": "2026-04-10",
+    "closed_on": "2026-04-10"
+  },
+  "TKT-3179": {
+    "file": "TKT-3179_verano-coastal-institute--calibration-window-request.md",
+    "operator_id": "OP-2758",
+    "subject": "Verano Coastal Institute \u2014 calibration window request",
+    "status": "closed",
+    "opened_on": "2025-10-17",
+    "closed_on": "2025-10-20"
+  },
+  "TKT-3180": {
+    "file": "TKT-3180_thornbury-regional-tower--spare-part-lead-time.md",
+    "operator_id": "OP-2759",
+    "subject": "Thornbury Regional Tower \u2014 spare part lead time",
+    "status": "closed",
+    "opened_on": "2026-03-03",
+    "closed_on": "2026-03-07"
+  },
+  "TKT-3181": {
+    "file": "TKT-3181_marisol-deepwater-terminal--firmware-upgrade-question.md",
+    "operator_id": "OP-2760",
+    "subject": "Marisol Deepwater Terminal \u2014 firmware upgrade question",
+    "status": "closed",
+    "opened_on": "2025-10-03",
+    "closed_on": "2025-10-05"
+  },
+  "TKT-3182": {
+    "file": "TKT-3182_brackenmoor-storm-centre--portal-access.md",
+    "operator_id": "OP-2761",
+    "subject": "Brackenmoor Storm Centre \u2014 portal access",
+    "status": "closed",
+    "opened_on": "2026-04-29",
+    "closed_on": "2026-05-03"
+  }
+}

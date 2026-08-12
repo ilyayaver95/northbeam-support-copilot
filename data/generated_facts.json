@@ -1,0 +1,76 @@
+{
+  "today": "2026-09-14",
+  "month_end": "2026-09-30",
+  "counts": {
+    "operators": 33,
+    "units": 213,
+    "cases": 18,
+    "events": 225
+  },
+  "most_failed_dispatches": {
+    "operator_id": "OP-2751",
+    "name": "Ridgeway & Holt Port Logistics",
+    "count": 4
+  },
+  "open_cases_due_by_month_end": {
+    "count": 10,
+    "case_ids": [
+      "CS-8310",
+      "CS-8311",
+      "CS-8313",
+      "CS-8315",
+      "CS-8316",
+      "CS-8318",
+      "CS-8319",
+      "CS-8321",
+      "CS-8322",
+      "CS-8324"
+    ]
+  },
+  "operators_at_or_below_995": {
+    "operator_ids": [
+      "OP-2742",
+      "OP-2769"
+    ],
+    "names": [
+      "Cape Solvang Port Authority",
+      "Aiguille Mountain Met"
+    ],
+    "near_miss": {
+      "operator_id": "OP-2764",
+      "availability_30d": 0.9952
+    }
+  },
+  "largest_open_case": {
+    "case_id": "CS-8321",
+    "parts_cost_cents": 402600,
+    "operator_id": "OP-2767"
+  },
+  "breached_sla_cases": [
+    "CS-8312"
+  ],
+  "case_counts_by_operator": {
+    "OP-2742": 2,
+    "OP-2740": 1,
+    "OP-2741": 1,
+    "OP-2746": 1,
+    "OP-2749": 1,
+    "OP-2752": 1,
+    "OP-2755": 1,
+    "OP-2758": 1,
+    "OP-2761": 1,
+    "OP-2764": 1,
+    "OP-2767": 1,
+    "OP-2770": 1,
+    "OP-2773": 1,
+    "OP-2744": 1,
+    "OP-2748": 1,
+    "OP-2751": 1,
+    "OP-2754": 1
+  },
+  "most_downtime_operator": {
+    "operator_id": "OP-2773",
+    "name": "Calloway Straits Control",
+    "downtime_minutes_30d": 1989
+  }
+}

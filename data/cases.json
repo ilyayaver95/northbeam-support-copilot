@@ -1,0 +1,200 @@
+{
+  "CS-8310": {
+    "unit_id": "RU-4119",
+    "operator_id": "OP-2742",
+    "opened_at": "2026-09-09",
+    "severity": "major",
+    "fault_code": "RX-NOISE-HIGH",
+    "sla_response_due": "2026-09-16",
+    "response_logged": false,
+    "parts_cost_cents": 74300,
+    "downtime_minutes": 265
+  },
+  "CS-8311": {
+    "unit_id": "RU-4004",
+    "operator_id": "OP-2740",
+    "opened_at": "2026-09-12",
+    "severity": "minor",
+    "fault_code": "FAN-FAIL",
+    "sla_response_due": "2026-09-19",
+    "response_logged": false,
+    "parts_cost_cents": 6250,
+    "downtime_minutes": 52
+  },
+  "CS-8312": {
+    "unit_id": "RU-4118",
+    "operator_id": "OP-2742",
+    "opened_at": "2026-09-04",
+    "severity": "critical",
+    "fault_code": "TX-PWR-LOW",
+    "sla_response_due": "2026-09-11",
+    "response_logged": false,
+    "parts_cost_cents": 143900,
+    "downtime_minutes": 386
+  },
+  "CS-8313": {
+    "unit_id": "RU-4134",
+    "operator_id": "OP-2741",
+    "opened_at": "2026-09-09",
+    "severity": "minor",
+    "fault_code": "FAN-FAIL",
+    "sla_response_due": "2026-09-23",
+    "response_logged": false,
+    "parts_cost_cents": 106500,
+    "downtime_minutes": 231
+  },
+  "CS-8314": {
+    "unit_id": "RU-4105",
+    "operator_id": "OP-2746",
+    "opened_at": "2026-09-08",
+    "severity": "critical",
+    "fault_code": "FAN-FAIL",
+    "sla_response_due": "2026-09-15",
+    "response_logged": true,
+    "parts_cost_cents": 106500,
+    "downtime_minutes": 413
+  },
+  "CS-8315": {
+    "unit_id": "RU-4075",
+    "operator_id": "OP-2749",
+    "opened_at": "2026-09-12",
+    "severity": "critical",
+    "fault_code": "COMMS-LINK-DOWN",
+    "sla_response_due": "2026-09-19",
+    "response_logged": false,
+    "parts_cost_cents": 106500,
+    "downtime_minutes": 892
+  },
+  "CS-8316": {
+    "unit_id": "RU-4078",
+    "operator_id": "OP-2752",
+    "opened_at": "2026-09-03",
+    "severity": "minor",
+    "fault_code": "MTI-DEGRADED",
+    "sla_response_due": "2026-09-17",
+    "response_logged": false,
+    "parts_cost_cents": 106500,
+    "downtime_minutes": 800
+  },
+  "CS-8317": {
+    "unit_id": "RU-4015",
+    "operator_id": "OP-2755",
+    "opened_at": "2026-09-04",
+    "severity": "minor",
+    "fault_code": "AZ-ENC-DRIFT",
+    "sla_response_due": "2026-09-18",
+    "response_logged": true,
+    "parts_cost_cents": 28400,
+    "downtime_minutes": 90
+  },
+  "CS-8318": {
+    "unit_id": "RU-4084",
+    "operator_id": "OP-2758",
+    "opened_at": "2026-09-10",
+    "severity": "minor",
+    "fault_code": "COMMS-LINK-DOWN",
+    "sla_response_due": "2026-09-24",
+    "response_logged": false,
+    "parts_cost_cents": 28400,
+    "downtime_minutes": 557
+  },
+  "CS-8319": {
+    "unit_id": "RU-4186",
+    "operator_id": "OP-2761",
+    "opened_at": "2026-09-07",
+    "severity": "major",
+    "fault_code": "FAN-FAIL",
+    "sla_response_due": "2026-09-17",
+    "response_logged": false,
+    "parts_cost_cents": 28400,
+    "downtime_minutes": 250
+  },
+  "CS-8320": {
+    "unit_id": "RU-4189",
+    "operator_id": "OP-2764",
+    "opened_at": "2026-09-04",
+    "severity": "minor",
+    "fault_code": "PSU-FAULT",
+    "sla_response_due": "2026-09-18",
+    "response_logged": true,
+    "parts_cost_cents": 168900,
+    "downtime_minutes": 458
+  },
+  "CS-8321": {
+    "unit_id": "RU-4192",
+    "operator_id": "OP-2767",
+    "opened_at": "2026-09-07",
+    "severity": "critical",
+    "fault_code": "PSU-FAULT",
+    "sla_response_due": "2026-09-18",
+    "response_logged": false,
+    "parts_cost_cents": 402600,
+    "downtime_minutes": 505
+  },
+  "CS-8322": {
+    "unit_id": "RU-4096",
+    "operator_id": "OP-2770",
+    "opened_at": "2026-09-02",
+    "severity": "minor",
+    "fault_code": "RX-NOISE-HIGH",
+    "sla_response_due": "2026-09-16",
+    "response_logged": false,
+    "parts_cost_cents": 168900,
+    "downtime_minutes": 839
+  },
+  "CS-8323": {
+    "unit_id": "RU-4132",
+    "operator_id": "OP-2773",
+    "opened_at": "2026-09-03",
+    "severity": "major",
+    "fault_code": "COMMS-LINK-DOWN",
+    "sla_response_due": "2026-09-13",
+    "response_logged": true,
+    "parts_cost_cents": 168900,
+    "downtime_minutes": 157
+  },
+  "CS-8324": {
+    "unit_id": "RU-4071",
+    "operator_id": "OP-2744",
+    "opened_at": "2026-09-02",
+    "severity": "critical",
+    "fault_code": "RX-NOISE-HIGH",
+    "sla_response_due": "2026-09-19",
+    "response_logged": false,
+    "parts_cost_cents": 71200,
+    "downtime_minutes": 190
+  },
+  "CS-8325": {
+    "unit_id": "RU-4074",
+    "operator_id": "OP-2748",
+    "opened_at": "2026-09-06",
+    "severity": "critical",
+    "fault_code": "PSU-FAULT",
+    "sla_response_due": "2026-09-13",
+    "response_logged": true,
+    "parts_cost_cents": 71200,
+    "downtime_minutes": 691
+  },
+  "CS-8326": {
+    "unit_id": "RU-4077",
+    "operator_id": "OP-2751",
+    "opened_at": "2026-09-08",
+    "severity": "minor",
+    "fault_code": "FAN-FAIL",
+    "sla_response_due": "2026-09-22",
+    "response_logged": true,
+    "parts_cost_cents": 106500,
+    "downtime_minutes": 134
+  },
+  "CS-8327": {
+    "unit_id": "RU-4080",
+    "operator_id": "OP-2754",
+    "opened_at": "2026-09-11",
+    "severity": "major",
+    "fault_code": "COMMS-LINK-DOWN",
+    "sla_response_due": "2026-09-21",
+    "response_logged": true,
+    "parts_cost_cents": 28400,
+    "downtime_minutes": 850
+  }
+}
