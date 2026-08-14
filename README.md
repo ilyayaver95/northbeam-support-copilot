@@ -10,6 +10,14 @@ It is a tool-calling agent over a synthetic but internally consistent world: 33
 operators, 213 installed units, 18 service cases, 225 event-log entries, 55 past
 tickets and seven policy documents.
 
+## Demo
+
+[![Watch the demo](docs/demo_poster.png)](docs/demo.mp4)
+
+*56 seconds, real footage of live calls: ask in plain language, numbers computed
+in Python, policy answers cited from the actual documents, a rule-based decline,
+and the KPI dashboard — click the image to watch (with sound).*
+
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
